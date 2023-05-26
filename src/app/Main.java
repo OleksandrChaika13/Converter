@@ -3,7 +3,7 @@ package app;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("My amazing app for convertation.");
+        System.out.println("I really don't know what this app is about");
         double miles = 15;
         double kms = 26;
         double kmsRes = convertMilesToKms(miles);
